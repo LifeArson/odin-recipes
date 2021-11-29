@@ -1,0 +1,2 @@
+Hello! We're starting off with some basic HTML, later coming back (apparently!) with CSS, should be fun. Links, images, whatever, I'm so very thrilled I could just sleep! 
+I think I have to skip the extra recipes part for now, I don't think I can handle much more dicking around with actually doing this low-level stuff. Day 1 has been a mix of refresher that I really didn't ned with some new tidbits - which means that it's been relevant. I can't say anything other than now I know what I didn't quite previously know?
